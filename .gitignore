@@ -1,0 +1,15 @@
+node_modules
+src/**/*.js
+src/**/*.map
+coverage
+.env
+yarn.lock
+yarn-error.log
+.vscode
+snapshots/*
+src/test
+dist
+test.html
+test2.html
+stream.ts
+frames

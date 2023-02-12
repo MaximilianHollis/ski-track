@@ -1,0 +1,15 @@
+{
+  "extends": "lemon/ts",
+  "rules": {
+    "import/no-unresolved": "off",
+    "unused-imports/no-unused-vars": "off",
+    "unused-imports/no-unused-imports": "off",
+    "camelcase": "off",
+    "no-use-before-define": "off",
+    "max-params": "off",
+    "consistent-return": "off",
+    "new-cap": "off",
+    "complexity": "off",
+    "no-constant-binary-expression": "off"
+  }
+}
